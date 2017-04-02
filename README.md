@@ -32,7 +32,7 @@ Den fungerar som huvudsida till alla ens repos som har en gh-pages branch.
 
 <img src="images/namnservrar@0,5x.png" alt=""/>
 
-## Steg 5: Välj Custom Domain på Github
+## Steg 4: Välj Custom Domain på Github
 1. På din github.com/username, gå till Settings och skrolla ner till GitHub Pages
 2. Under Custom domain, välj ditt domännamn
 
