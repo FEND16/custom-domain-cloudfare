@@ -38,5 +38,5 @@ Den fungerar som huvudsida till alla ens repos som har en gh-pages branch.
 
 <img src="images/custom-domain@0,5x.png" alt=""/>
 
-3. Vänta. Det kan ta 24 timmar innan det är klart. Man kan använda kommandot `dig domännamn.com` för att se att DNS har slagit om.
+3. Vänta. Det kan ta 24 timmar innan det är klart. Man kan använda kommandot `dig domännamn.com` för att se om DNS har slagit om.
 
