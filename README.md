@@ -27,8 +27,7 @@ Den fungerar som huvudsida till alla ens repos som har en gh-pages branch.
 
 <img src="images/loopia-konfigurering@0,5x.png" alt=""/>
 
-3. Under Fler inställningar för `domännamn` välj Namnservrar
-Här fyller du i namnservrarna från Cloudfare
+3. Under Fler inställningar för `domännamn`, välj Namnservrar. Här fyller du i namnservrarna från Cloudfare
 
 <img src="images/namnservrar@0,5x.png" alt=""/>
 
@@ -36,7 +35,7 @@ Här fyller du i namnservrarna från Cloudfare
 1. På din github.com/username, gå till Settings och skrolla ner till GitHub Pages
 2. Under Custom domain, välj ditt domännamn
 
-<img src="images/custom-domain.png.png" alt="s"/>
+<img src="images/custom-domain.png" alt=""/>
 
 3. Vänta. Det kan ta 24 timmar innan det är klart. Man kan använda kommandot `dig domännamn.com` för att se att DNS har slagit om.
 
