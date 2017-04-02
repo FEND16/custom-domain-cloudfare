@@ -20,6 +20,7 @@ Den fungerar som huvudsida till alla ens repos som har en gh-pages branch.
 <img src="images/CNAME@0,5x.png" alt=""/>
 
 4. Längre ner på DNS-sidan står namnet på Cloudfares namnservrar. Dessa behöver läggas i på Loopia i nästa steg.
+5. För HTTPS, gå till Crypto och skrolla ner till Automatic HTTPS Rewrites. Sedan välj On. 
 
 #### Steg 3: Fyll i Cloudfares namnservrar på Loopia
 1. På Loopias [kundzon](https://customerzone.loopia.se) under Domännamn, välj din domän.
