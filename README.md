@@ -13,7 +13,7 @@ Allt som pushas till master-branchen i detta repo hamnar på
 Den fungerar som huvudsida till alla ens repos som har en gh-pages branch.
 
 ## Steg 2: Ställa in Cloudfare DNS 
-1. Signa upp på [Cloudfare](https://support.cloudflare.com/hc/en-us/articles/201720164-Step-2-Create-a-CloudFlare-account-and-add-a-website) och lägg till din domän.
+1. Signa upp på [Cloudfare](https://www.cloudflare.com/) och [lägg till din domän](https://support.cloudflare.com/hc/en-us/articles/201720164-Step-2-Create-a-CloudFlare-account-and-add-a-website).
 2. Efter att Status visar Scan Complete -> tryck på Continue Setup
 3. Länka domänen till Github genom att skapar två CNAME-poster under DNS
 
